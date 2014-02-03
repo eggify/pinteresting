@@ -1,6 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=ABeeZee);
+
 $body-bg: #ecf0f1;
+$font-family-sans-serif: 'ABeeZee','Helvetica Neue', Helvetica, Arial, sans-serif;
+$navbar-height: 45px;
 $navbar-inverse-bg: #3498db;
 $navbar-inverse-link-color: white;
 $brand-primary: #f39c12;
 $jumbotron-bg: #ecf0f1;
 @import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
