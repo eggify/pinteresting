@@ -7,10 +7,12 @@ ruby '2.0.0'
 	gem 'coffee-rails', '~> 4.0.0'
 	gem 'jquery-rails'
 	gem 'turbolinks'
+	gem 'jquery-turbolinks'
 	gem 'jbuilder', '~> 1.2'
 	gem 'bootstrap-sass'	
 	gem 'devise'
 	gem 'paperclip', '~> 3.0'
+	gem 'masonry-rails', '~> 0.2.0'
 	
 	
 	group :development, :test do
